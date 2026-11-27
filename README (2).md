@@ -1,7 +1,7 @@
 # Parameter-Efficient Fine-Tuning of Transformers with LoRA
 **Overcoming High Training Cost for Indian Banking Customer Complaint Classification**
 
-Name: ____________  Roll No.: ____________  Class: ____________
+Name: Rima Dutta  Roll No.: 2548038  Class: 5MDS Subject: Gen-AI
 
 ## 1. Problem
 Fully fine-tuning a Transformer updates every weight. This needs a lot of GPU memory, longer training time, and a full model copy (about 268 MB for DistilBERT) for every task.
