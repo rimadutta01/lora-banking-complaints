@@ -1,0 +1,13 @@
+{
+  "model": "lora_r8",
+  "trainable_params": 797261,
+  "total_params": 67809946,
+  "trainable_pct": 1.176,
+  "accuracy": 0.9195,
+  "macro_f1": 0.9193,
+  "indian_test_acc": 0.6666666666666666,
+  "train_time_s": 51.4,
+  "peak_gpu_mem_mb": 718.7,
+  "saved_size_mb": 3.2,
+  "latency_ms": 11.5
+}

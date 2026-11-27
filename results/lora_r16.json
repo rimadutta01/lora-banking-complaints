@@ -1,0 +1,13 @@
+{
+  "model": "lora_r16",
+  "trainable_params": 944717,
+  "total_params": 67957402,
+  "trainable_pct": 1.39,
+  "accuracy": 0.9231,
+  "macro_f1": 0.9229,
+  "indian_test_acc": 0.6666666666666666,
+  "train_time_s": 51.7,
+  "peak_gpu_mem_mb": 721.2,
+  "saved_size_mb": 3.79,
+  "latency_ms": 8.63
+}

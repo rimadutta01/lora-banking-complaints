@@ -1,0 +1,13 @@
+text,label
+My UPI payment failed but the money was deducted from my account,failed_transfer
+I lost my debit card yesterday please block it,lost_or_stolen_card
+My ATM PIN is blocked after wrong attempts,pin_blocked
+I have not received my new debit card yet,card_arrival
+My card payment was declined at the shop,declined_card_payment
+How do I activate my new card,activate_my_card
+Why was I charged a fee for withdrawing cash at the ATM,cash_withdrawal_charge
+My wallet top up failed but money is gone,top_up_failed
+My NEFT transfer is still pending since morning,pending_transfer
+The beneficiary has not received the money I sent by IMPS,transfer_not_received_by_recipient
+My card is not working at any terminal,card_not_working
+My card was stolen so please freeze it immediately,lost_or_stolen_card

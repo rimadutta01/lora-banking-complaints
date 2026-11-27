@@ -1,0 +1,13 @@
+{
+  "model": "full",
+  "trainable_params": 67012685,
+  "total_params": 67012685,
+  "trainable_pct": 100.0,
+  "accuracy": 0.9269,
+  "macro_f1": 0.9271,
+  "indian_test_acc": 0.5833333333333334,
+  "train_time_s": 73.2,
+  "peak_gpu_mem_mb": 1368.1,
+  "saved_size_mb": 268.07,
+  "latency_ms": 7.73
+}
